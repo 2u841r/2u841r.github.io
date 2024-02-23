@@ -1,22 +1,13 @@
 ---
-title: test post 
-date: 2024-02-23 12:00:00 -500
-categories: [test, ok]
-tags: [server, welcome]
+layout: post
+title: "GoXLR WITH WIRELESS HEADSET - Connect ANY wireless bluetooth headphones"
+date: 2020-01-07 09:00:00 -0500
+categories: streaming
+tags: goxlr streaming twitch hardware
 ---
 
-# Lorem 
+[![GoXLR WITH WIRELESS HEADSET - Connect ANY wireless bluetooth headphones](https://img.youtube.com/vi/dTd7f-jK_BE/0.jpg)](https://www.youtube.com/watch?v=dTd7f-jK_BE "GoXLR WITH WIRELESS HEADSET - Connect ANY wireless bluetooth headphones")
 
-haha ami keu na
+SOME DESCRIPTION
 
-* tumi ke 
-* kotha theke?
-* kothay jabe?
-  
-- haha
-  - haha
-  - hahah
-- hihi
-  - hihi
-  - hihi
-  
+[Watch Video](https://www.youtube.com/watch?v=dTd7f-jK_BE)
